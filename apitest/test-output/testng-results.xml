@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-23T00:47:16 EET" name="Default suite" finished-at="2023-07-23T00:47:24 EET" duration-ms="8049">
+    <groups>
+    </groups>
+    <test started-at="2023-07-23T00:47:16 EET" name="Default test" finished-at="2023-07-23T00:47:24 EET" duration-ms="8049">
+      <class name="testcases.GetHotels">
+        <test-method is-config="true" signature="setData()[pri:0, instance:testcases.GetHotels@1568159]" started-at="2023-07-23T00:47:17 EET" name="setData" finished-at="2023-07-23T00:47:17 EET" duration-ms="28" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setData -->
+        <test-method signature="gethotelwithinvalidates()[pri:0, instance:testcases.GetHotels@1568159]" started-at="2023-07-23T00:47:17 EET" name="gethotelwithinvalidates" finished-at="2023-07-23T00:47:23 EET" duration-ms="5893" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- gethotelwithinvalidates -->
+        <test-method is-config="true" signature="setData()[pri:0, instance:testcases.GetHotels@1568159]" started-at="2023-07-23T00:47:23 EET" name="setData" finished-at="2023-07-23T00:47:23 EET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setData -->
+        <test-method signature="notexiesthotel()[pri:0, instance:testcases.GetHotels@1568159]" started-at="2023-07-23T00:47:23 EET" name="notexiesthotel" finished-at="2023-07-23T00:47:24 EET" duration-ms="1861" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- notexiesthotel -->
+      </class> <!-- testcases.GetHotels -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
